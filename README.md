@@ -1,6 +1,6 @@
 # ArtistStats.Api
 
-![.NET Core](https://github.com/PwTa/ArtistStats.Api/workflows/.NET%20Core/badge.svg)
+![.NET Core](https://github.com/climbingdotnet/ArtistStats.Api/workflows/.NET%20Core/badge.svg)
 
 This project intergrates with the following Api's to get Artist data and compute stats and process comparisons between Artists
 
