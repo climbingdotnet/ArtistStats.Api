@@ -2,7 +2,7 @@
 
 ![.NET Core](https://github.com/climbingdotnet/ArtistStats.Api/workflows/.NET%20Core/badge.svg)
 
-This project intergrates with the following Api's to get Artist data and compute stats and process comparisons between Artists
+This project integrates with the following Api's to get Artist data and compute stats and process comparisons between Artists
 
 - https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2
 - https://lyricsovh.docs.apiary.io/#reference
